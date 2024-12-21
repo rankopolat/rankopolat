@@ -9,10 +9,8 @@ I'm a **Computer Science Student** at **University Of Wollongong**, majoring in 
 
 ## I'm Currently working on
 - Egg inc discord bot
-- Automatic Cutlery Logger
-- Portfolio Website
 - IOS Calorie tracker
-
+- 
 
 ### 🍰 Fun fact: I think im not asleep... but am I?
 
