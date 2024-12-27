@@ -10,12 +10,8 @@ I'm a **Computer Science Student** at **University Of Wollongong**, majoring in 
 ## I'm Currently working on
 - Egg inc discord bot
 - IOS Calorie tracker
-- 
 
-### 🍰 Fun fact: I think im not asleep... but am I?
-
----
-
+  
 ### Skills for Work
 <code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
 <code><a href="https://isocpp.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" /></a></code>
@@ -24,4 +20,3 @@ I'm a **Computer Science Student** at **University Of Wollongong**, majoring in 
 <code><a href="https://www.javascript.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="js logo" /></a></code>
 <code><a href="https://www.javascript.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="js logo" /></a></code>
 
-### Currently Learning
