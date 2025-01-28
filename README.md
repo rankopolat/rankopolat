@@ -10,7 +10,6 @@ I'm a **Computer Science Student** at **University Of Wollongong**, majoring in 
 ## I'm Currently working on
 - Egg inc discord bot
 - IOS Calorie tracker
-- Fisch lua Script
 
   
 ### Skills for Work
