@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-rankokasi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rankokasi@gmail.com)
 
 <!--Introduction -->
-I'm a **Computer Science Student** at **University Of Wollongong**, majoring in software engineering
+I'm a **Computer Science Graduate** from the **University Of Wollongong**, majoring in software engineering
 
 ## I'm Currently working on
 - Egg inc discord bot
